@@ -1,10 +1,10 @@
-Blog Website
+### Blog Website
 
-Overview
+### Overview
 This project is a full-stack blog application where users can create, read, update, and delete (CRUD) blog posts.
 It is designed with a modern frontend UI powered by React + Vite and a backend API built using Node.js + Express, with MongoDB as the database.
 
-Key Features
+### Key Features
 
 CRUD Functionality – Users can:
 
@@ -17,7 +17,7 @@ CRUD Functionality – Users can:
 - Responsive Design – Built with Tailwind CSS (via Vite + React) to ensure a clean and mobile-friendly experience.
 - Background Customization – Edit Post pages allow adding background images for a personalized look.
 
-Tech Stack
+### Tech Stack
 
 ### Frontend
 - React (with Vite for fast build & dev server)
@@ -30,23 +30,23 @@ Tech Stack
 - Express.js
 - MongoDB with Mongoose (for database)
 
-Installation & Setup
+### Installation & Setup
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/Ameena-G/Blog-Project.git
 cd Blog-Project
 
-Backend setup:
+### Backend setup:
 
 cd server
 npm install
 
-Frontend setup:
+### Frontend setup:
 
 cd client
 npm install
 
-License
+### License
 
 This project is licensed under the MIT License.
