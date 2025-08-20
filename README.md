@@ -1,4 +1,4 @@
-### Blog Website
+# Blog Website
 
 ### Overview
 This project is a full-stack blog application where users can create, read, update, and delete (CRUD) blog posts.
@@ -46,8 +46,6 @@ CRUD Functionality – Users can:
 
 - cd client
 - npm install
-
-### License
 
 ## License
 
