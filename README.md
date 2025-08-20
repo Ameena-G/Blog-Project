@@ -30,7 +30,7 @@ CRUD Functionality – Users can:
 - Express.js
 - MongoDB with Mongoose (for database)
 
-### Installation & Setup
+## Installation & Setup
 
 ### Clone the repository:
 
@@ -46,6 +46,13 @@ CRUD Functionality – Users can:
 
 - cd client
 - npm install
+
+## Contributing
+
+1. Fork this repo
+2. Create your feature branch 
+3. Commit changes 
+4. Push branch 
 
 ## License
 
