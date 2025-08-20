@@ -11,7 +11,7 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-const ORIGIN = process.env.CLIENT_ORIGIN || 'http://localhost:5173';
+const ORIGIN = process.env.CLIENT_ORIGIN || 'http://localhost:port_number';
 
 app.use(helmet());
 app.use(cors({ origin: ORIGIN }));
