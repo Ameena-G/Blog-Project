@@ -61,5 +61,5 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## Project Demo
 
 You can watch the demo video of this project here:  
-[Project Demo Video]([https://drive.google.com/file/d/your-video-id/view?usp=sharing](https://drive.google.com/file/d/1bOe350EmtHLvW6sw91atZr66mNMLz63_/view?usp=sharing))
+[Project Demo Video](https://drive.google.com/file/d/1bOe350EmtHLvW6sw91atZr66mNMLz63_/view?usp=sharing)
 
