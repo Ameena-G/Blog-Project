@@ -34,18 +34,18 @@ CRUD Functionality – Users can:
 
 ### Clone the repository:
 
-git clone https://github.com/Ameena-G/Blog-Project.git
-cd Blog-Project
+- git clone https://github.com/Ameena-G/Blog-Project.git
+- cd Blog-Project
 
 ### Backend setup:
 
-cd server
-npm install
+- cd server
+- npm install
 
 ### Frontend setup:
 
-cd client
-npm install
+- cd client
+- npm install
 
 ### License
 
